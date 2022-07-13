@@ -1,6 +1,7 @@
-time	mcs	nss	bw	rssi	throughput_monitor	datarate	pktlost_ack	nbpkt_monitor	retry	nbpkt_ack	pktlost_seq_initial	pktlost_seq_new	distance	antenna	LoS
-8.133997	7.0	3.0	80.0	-59.376038	24662824.481191	975.0	0.0	843.0	3.0	1301.0	125.0	25035.0	3	horizontal	1
-8.234386	7.0	3.0	80.0	-59.402335	27673900.754944	975.0	8.0	942.0	21.0	1365.0	119.0	25020.0	3	horizontal	1
-8.334639	7.0	3.0	80.0	-59.507229	24264413.732957	975.0	1.0	830.0	6.0	1329.0	146.0	33274.0	3	horizontal	1
-8.436059	7.0	3.0	80.0	-59.325153	28537675.284523	975.0	0.0	978.0	10.0	1355.0	125.0	29061.0	3	horizontal	1
-##	1994.0	6730.0	0.296285										3	horizontal	1
+time	mcs	nss	bw	rssi	throughput_monitor	datarate	pktlost_ack	nbpkt_monitor	retry	nbpkt_ack	pktlost_seq_initial	pktlost_seq_new	bad_fcs	distance	antenna	LoS
+8.100054	7	3	80.0	-59.388	24839800.0	975.0	0.0	848.0	3.0	4628.0	127.0	20232.0	0.0	3	horizontal	1
+8.201004	7	3	80.0	-59.3799	26257000.0	975.0	1.0	895.0	8.0	1355.0	119.0	25045.0	0.0	3	horizontal	1
+8.302265	7	3	80.0	-59.4989	25600900.0	975.0	8.0	884.0	18.0	1341.0	138.0	29142.0	0.0	3	horizontal	1
+8.403116	7	3	80.0	-59.3582	26994500.0	975.0	0.0	924.0	5.0	1336.0	142.0	41385.0	0.0	3	horizontal	1
+8.503137	7	3	80.0	-59.3542	28152600.0	975.0	0.0	943.0	17.0	1376.0	125.0	29121.0	0.0	3	horizontal	1
+##	1290	4579	0.281721											3	horizontal	1
