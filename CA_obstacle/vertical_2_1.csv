@@ -1186,4 +1186,4 @@ time	mcs	nss	bw	rssi	throughput_monitor	datarate	pktlost_ack	nbpkt_monitor	retry
 127.655727	0.0	3.0	80.0	-59.3237	10418000.0	97.0	0.0	658.0	66.0	0.0	0.0	0.0	0.0	2	vertical	0
 127.757852	0.131148	2.96721	80.0	-59.5738	813134.0	107.721	0.0	61.0	6.0	0.0	0.0	0.0	0.0	2	vertical	0
 127.903097	0.0	3.0	80.0	-59.75	4578.46	97.0	0.0	4.0	0.0	0.0	0.0	0.0	0.0	2	vertical	0
-##	1.0	799375.0	1e-06											2	vertical	0
+##	1.0	799375.0	1e-06		Nan		Nan							2	vertical	0
